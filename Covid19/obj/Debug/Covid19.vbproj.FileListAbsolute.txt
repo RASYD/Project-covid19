@@ -1,0 +1,12 @@
+D:\file data\visual\Covid19\Covid19\bin\Debug\Covid19.exe.config
+D:\file data\visual\Covid19\Covid19\bin\Debug\Covid19.exe
+D:\file data\visual\Covid19\Covid19\bin\Debug\Covid19.pdb
+D:\file data\visual\Covid19\Covid19\bin\Debug\Covid19.xml
+D:\file data\visual\Covid19\Covid19\obj\Debug\Covid19.vbprojAssemblyReference.cache
+D:\file data\visual\Covid19\Covid19\obj\Debug\Covid19.Form1.resources
+D:\file data\visual\Covid19\Covid19\obj\Debug\Covid19.Resources.resources
+D:\file data\visual\Covid19\Covid19\obj\Debug\Covid19.vbproj.GenerateResource.cache
+D:\file data\visual\Covid19\Covid19\obj\Debug\Covid19.exe
+D:\file data\visual\Covid19\Covid19\obj\Debug\Covid19.xml
+D:\file data\visual\Covid19\Covid19\obj\Debug\Covid19.pdb
+D:\file data\visual\Covid19\Covid19\obj\Debug\Covid19.Form2.resources
